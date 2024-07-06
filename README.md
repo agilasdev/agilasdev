@@ -12,6 +12,3 @@ func main() {
       DefineMySelf();
 }
 ```
-```
-Hello
-```
