@@ -1,4 +1,8 @@
 ``` go
+package main
+import "fmt"
+```
+``` go
 func DefineMySelf() {
       name := "Mourchid Youssef"
       role := "Software Engineer"
